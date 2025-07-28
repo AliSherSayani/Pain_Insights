@@ -1,5 +1,16 @@
-# Firebase Studio
+# Pain_Insights
 
-This is a NextJS starter in Firebase Studio.
+Pain_Insights is a Node.js-based application designed to analyze and visualize pain-related data, potentially integrating AI tools for predictive analysis in the future.
 
-To get started, take a look at src/app/page.tsx.
+## 🚀 Features
+- Node.js + npm-based project
+- Modular code structure for scalability
+- Future support for machine learning models
+- Easy-to-install and run locally
+
+## 📦 Installation
+
+Make sure Node.js is installed, then run:
+
+```bash
+npm install
