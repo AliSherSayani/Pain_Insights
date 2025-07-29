@@ -12,5 +12,7 @@ Pain_Insights is a Node.js-based application designed to analyze and visualize p
 
 Make sure Node.js is installed, then run:
 
+Add .env file and your gemini api key init.
+
 ```bash
 npm install
